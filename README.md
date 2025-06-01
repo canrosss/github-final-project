@@ -58,7 +58,7 @@ $ git clone https://github.com/canrosss/github-final-project.git
 $ cd github-final-project
 
 # Run the app
-$ bash script
+$ bash simple-interest.sh
 ```
 
 
