@@ -40,7 +40,7 @@ Output
   <a href="#how-to-use">How To Use</a> •
 </p>
 
-![screenshot]("https://github.com/canrosss/github-final-project/blob/8d7cb3ab1e64e117bc6a61add568322e9f4c8fce/img/demo.gif](https://github.com/canrosss/github-final-project/blob/8d7cb3ab1e64e117bc6a61add568322e9f4c8fce/img/demo.gif")
+![screenshot](https://github.com/canrosss/github-final-project/blob/8d7cb3ab1e64e117bc6a61add568322e9f4c8fce/img/demo.gif](https://github.com/canrosss/github-final-project/blob/8d7cb3ab1e64e117bc6a61add568322e9f4c8fce/img/demo.gif)
 
 ## Key Features
 
