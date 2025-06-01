@@ -40,7 +40,7 @@ Output
   <a href="#how-to-use">How To Use</a> •
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot]("https://github.com/canrosss/github-final-project/blob/98b53fb05f162be929a7b104d8a32d3409967985/img/demo.gif")
 
 ## Key Features
 
